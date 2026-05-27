@@ -189,6 +189,7 @@
 * [SmallDev.tools](https://smalldev.tools/)
 * [WebToolkit Pro](https://wtkpro.site/)
 * [FreeToolBox](https://www.freetoolbox.site/)
+* [FreeTextUtils](https://freetextutils.com/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
 
